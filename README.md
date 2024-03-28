@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/564x/e9/bf/55/e9bf55f5df6b5c3717679a392f33bfdf.jpg" width="100%"height="500">
+  <img src="https://i.pinimg.com/564x/e9/bf/55/e9bf55f5df6b5c3717679a392f33bfdf.jpg" width="80%"height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">Tech Enthusiast| Coding Dreams into Reality, One Byte at a Time</h3>
