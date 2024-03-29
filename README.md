@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **igaurav334@gmail.com**
 
-- ⚡ Fun fact **Ctrl+C coding, Ctrl+V vocal skills!**
+- ⚡ Fun fact **"Once coded so fast, I left bugs in the dust!😭"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
